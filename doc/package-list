@@ -1,0 +1,9 @@
+com.everis.start
+com.everis.start.config
+com.everis.start.domain
+com.everis.start.dto
+com.everis.start.repository
+com.everis.start.resources
+com.everis.start.resources.exception
+com.everis.start.services
+com.everis.start.services.exception
